@@ -1,4 +1,4 @@
-package br.com.alexgaia98.challenges.HelloWord;
+package br.com.alexgaia98.uriproblems.helloworld;
 
 public class HelloWorld {
  
