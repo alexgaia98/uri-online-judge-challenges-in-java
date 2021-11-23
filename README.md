@@ -37,7 +37,7 @@ Desafios da plataforma <a href="https://www.beecrowd.com.br/judge/pt">URI ONLINE
     <th>Solução</th>
    </tr>
    <tr>
-     <td>1000</td>
+     <td>1555</td>
      <td><a href="https://www.beecrowd.com.br/judge/pt/problems/view/1555">Funções</a></td>
      <td><a href="https://www.beecrowd.com.br/judge/pt/problems/index/3">Matemática</a></td>
      <td>1</td>
