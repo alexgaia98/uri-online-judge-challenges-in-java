@@ -1,4 +1,4 @@
-package br.com.alexgaia98.uriproblems.matematic;
+package br.com.alexgaia98.uriproblems.matematic.functions;
 
 import java.util.Scanner;
 

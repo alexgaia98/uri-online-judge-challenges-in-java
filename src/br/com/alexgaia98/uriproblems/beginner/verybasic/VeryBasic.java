@@ -1,4 +1,4 @@
-package br.com.alexgaia98.uriproblems.verybasic;
+package br.com.alexgaia98.uriproblems.beginner.verybasic;
 
 import java.util.Scanner;
 
