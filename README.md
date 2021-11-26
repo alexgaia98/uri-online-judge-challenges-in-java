@@ -41,6 +41,6 @@ Desafios da plataforma <a href="https://www.beecrowd.com.br/judge/pt">URI ONLINE
      <td><a href="https://www.beecrowd.com.br/judge/pt/problems/view/1555">Funções</a></td>
      <td><a href="https://www.beecrowd.com.br/judge/pt/problems/index/3">Matemática</a></td>
      <td>1</td>
-     <td><a href="https://github.com/alexgaia98/uri-online-judge-challenges/blob/master/src/br/com/alexgaia98/uriproblems/matematic/Functions.java">Código</a></td>
+     <td><a href="https://github.com/alexgaia98/uri-online-judge-challenges/blob/master/src/br/com/alexgaia98/uriproblems/matematic/functions/Functions.java">Código</a></td>
   </tr>  
   </table>
