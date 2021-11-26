@@ -46,7 +46,7 @@ Desafios da plataforma <a href="https://www.beecrowd.com.br/judge/pt">URI ONLINE
   </table>
 </br>
 
-### Ideas 💡
+### Ideias 💡
 - [ ] Incluir outras soluções para um mesmo problema.
 
   
