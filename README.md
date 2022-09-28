@@ -16,6 +16,7 @@ Desafios da plataforma <a href="https://www.beecrowd.com.br/judge/pt">URI ONLINE
      <td><a href="https://www.beecrowd.com.br/judge/pt/problems/index/1">Iniciante</a></td>
      <td>5</td>
      <td><a href="https://github.com/alexgaia98/uri-online-judge-challenges/tree/master/src/br/com/alexgaia98/uriproblems/helloworld">Código</a></td>
+     <td><a href="https://github.com/alexgaia98/uri-online-judge-challenges-in-java/blob/master/src/br/com/alexgaia98/uriproblems/beginner/helloworld/HelloWorld.java">Código</a></td>
   </tr>
    <tr>
      <td>1001</td>
