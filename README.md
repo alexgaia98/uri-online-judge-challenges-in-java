@@ -8,7 +8,7 @@ Desafios da plataforma <a href="https://www.beecrowd.com.br/judge/pt">URI ONLINE
     <th>Problema</th>
     <th>Categoria</th>
     <th>Nível</th>    
-    <th>Solução</th>
+    <th>Solução 1</th>
    </tr>
    <tr>
      <td>1000</td>
@@ -34,7 +34,7 @@ Desafios da plataforma <a href="https://www.beecrowd.com.br/judge/pt">URI ONLINE
     <th>Problema</th>
     <th>Categoria</th>
     <th>Nível</th>    
-    <th>Solução</th>
+    <th>Solução 1</th>
    </tr>
    <tr>
      <td>1555</td>
